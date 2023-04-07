@@ -1,4 +1,3 @@
-
 import PropTypes from 'prop-types';
 import { Text } from './Statistic.styled.js';
 
